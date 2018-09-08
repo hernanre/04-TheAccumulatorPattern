@@ -208,12 +208,6 @@ def count_sines_from(m, n):
     # ------------------------------------------------------------------
 
 
-
-
-
-
-
-
 def run_test_count_sines_vs_cosines():
     """ Tests the   count_sines_vs_cosines   function. """
     # ------------------------------------------------------------------
